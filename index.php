@@ -30,6 +30,8 @@
         </div>
     </nav>
     <hr>
+    <hr>
+    <hr>
 
     <div class="body_one">
         <div class="categories">
