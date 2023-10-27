@@ -18,8 +18,8 @@
         </div>
 
         <ul class="nav_list">
-            <li><a href="#">Login</a></li>
-            <li><a href="#">Sign Up</a></li>
+            <li><a href="../registration/userSignIn.php">Login</a></li>
+            <li><a href="../registration/userSignUp.php">Sign Up</a></li>
             <li><img src="../icon/cart.svg" alt="Cart"></li>
         </ul>
 
@@ -45,7 +45,7 @@
 
         <div class="product_list">
             <ul>
-                <li><a href="#">Insert Product</a></li>
+                <li><a href="insert_product.php">Insert Product</a></li>
                 <li><a href="#">View Product</a></li>
                 <li><a href="#">All Orders</a></li>
                 <li><a href="#">All Payments</a></li>
